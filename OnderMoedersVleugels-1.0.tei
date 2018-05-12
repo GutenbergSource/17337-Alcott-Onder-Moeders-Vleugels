@@ -8,13 +8,14 @@
 <fileDesc>
 <titleStmt>
 <title>Onder Moeders Vleugels</title>
-<author key="Alcott, Louise May" ref="https://viaf.org/viaf/29528997">Louise May Alcott (1832&ndash;1888)</author>
-<respStmt><resp>Translation</resp> <name key="Elberts, Gerardina Wilhelmina" ref="https://viaf.org/viaf/284369797">Gerardina Wilhelmina Elberts (1868&ndash;1945)</name></respStmt>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Alcott, Louise May" ref="https://viaf.org/viaf/29528997/">Louise May Alcott (1832&ndash;1888)</author>
+<respStmt><resp>Translation</resp> <name key="Elberts, Gerardina Wilhelmina" ref="https://viaf.org/viaf/284369797/">Gerardina Wilhelmina Elberts (1868&ndash;1945)</name></respStmt>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
 <pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=PGSrc>17337-Alcott-Onder-Moeders-Vleugels</idno>
 <idno type=epub-id>urn:uuid:70a61890-002c-48d7-9ff3-9d73bbfbd287</idno>
 <idno type=PGclearance>20050316091137alcott</idno>
 <idno type=PGDPProjectId>projectID423c31c68462f</idno>
@@ -69,7 +70,7 @@
 </revisionDesc>
 </teiHeader>
 <text>
-<front>
+<front id=frontmatter>
 <titlePage>
 <docTitle><titlePart>Onder Moeders Vleugels</titlePart></docTitle>
 
@@ -77,8 +78,8 @@
 <docAuthor>Louise M. Alcott</docAuthor>
 </byline>
 </titlePage>
-<body>
 <pb n=1>
+<body>
 <div1 id=ch01 n=I type=Chapter>
 <head type=label>Hoofdstuk I.</head>
 
@@ -227,7 +228,7 @@
 
 <p>&ldquo;Wat zou ik me graag als trommelslager of als marketentster of als verpleegster opgeven, om bij hem te zijn en hem te helpen,&rdquo; zuchtte Jo.
 
-<p>&rdquo;&apos;t Lijkt mij afschuwelijk, in een tent te slapen en allerlei akelige dingen te eten en uit een tinnen kroes te drinken,&rdquo; zei Amy.
+<p>&ldquo;&apos;t Lijkt mij afschuwelijk, in een tent te slapen en allerlei akelige dingen te eten en uit een tinnen kroes te drinken,&rdquo; zei Amy.
 
 <p>&ldquo;Wanneer komt hij terug, Moeder?&rdquo; vroeg Bets met een bevende stem.
 
@@ -310,7 +311,7 @@
 
 <p>&ldquo;Ze heeft het een oogenblik geleden weggenomen en is er mee weggeloopen, om er een lint of zoo iets om te doen,&rdquo; antwoordde Jo, door de kamer springende, om de eerste stijfheid weg te dansen van de nieuwe pantoffels.
 
-<p>Wat zien mijn zakdoeken er netjes uit, niet? Hanna heeft ze voor me gewasschen en gestreken en ik heb ze alle geborduurd,&rdquo; zei Bets, met voldoening de min of meer onregelmatige letters bekijkende, die haar zooveel moeite gekost hadden.
+<p><corr>&ldquo;</corr>Wat zien mijn zakdoeken er netjes uit, niet? Hanna heeft ze voor me gewasschen en gestreken en ik heb ze alle geborduurd,&rdquo; zei Bets, met voldoening de min of meer onregelmatige letters bekijkende, die haar zooveel moeite gekost hadden.
 
 <p>&ldquo;Och, goed schaap, daar heeft zij er &ldquo;Moeder&rdquo; op gezet in plaats van &ldquo;M. March&rdquo;; hoe kom j&apos;er bij!&rdquo; riep Jo en nam er een in de hand.
 
@@ -439,9 +440,9 @@
 
 <p>&ldquo;Toen laatst onze kat was weggeloopen, bracht hij die terug, en wij stonden juist even te praten over de schutting, over honkbal en zoo, toen hij Meta zag aankomen en wegliep. Jammer, we schoten best op, en ik ben ook vast van plan op een goeden dag verder kennis met hem te maken, want hij heeft wel een opvroolijking noodig, daar ben ik vast van overtuigd,&rdquo; zei Jo beslist.
 
-<p>&rdquo;&apos;t Lijkt me een aardige nette jongen, en ik heb er niets tegen, dat jullie kennis met hem maakt, als de gelegenheid zich voordoet. Hij bracht de bloemen zelf, en als ik gerust geweest was op hetgeen boven voorviel, zou ik hem gevraagd hebben om te blijven. Stakkerd, hij zag er zoo nieuwsgierig uit, toen hij al de pret hoorde en hij trok zoo sneu weg.&rdquo;
+<p>&ldquo;&apos;t Lijkt me een aardige nette jongen, en ik heb er niets tegen, dat jullie kennis met hem maakt, als de gelegenheid zich voordoet. Hij bracht de bloemen zelf, en als ik gerust geweest was op hetgeen boven voorviel, zou ik hem gevraagd hebben om te blijven. Stakkerd, hij zag er zoo nieuwsgierig uit, toen hij al de pret hoorde en hij trok zoo sneu weg.&rdquo;
 
-<p>&rdquo;&apos;t Is een zegen, dat u het niet deedt, Moeder,&rdquo; lachte Jo, met een blik op haar laarzen. &ldquo;Maar wij zullen later een andere voorstelling <pb n=20>geven, die hij <hi>wel</hi> mag zien. Misschien doet hij dan wel mee; zou dat niet heerlijk zijn?&rdquo;
+<p>&ldquo;&apos;t Is een zegen, dat u het niet deedt, Moeder,&rdquo; lachte Jo, met een blik op haar laarzen. &ldquo;Maar wij zullen later een andere voorstelling <pb n=20>geven, die hij <hi>wel</hi> mag zien. Misschien doet hij dan wel mee; zou dat niet heerlijk zijn?&rdquo;
 
 <p>&ldquo;Ik heb nog nooit een bouquet gekregen; wat is dit een mooie,&rdquo; en Meta bekeek haar bloemen met de grootste aandacht.
 
@@ -463,7 +464,7 @@
 
 <p>&ldquo;Verbeeld je eens, hoe heerlijk, een invitatiekaart van mevrouw Gardiner voor morgenavond!&rdquo; riep Meta, met het kostbaar document wuivend, en toen met jeugdige opgewondenheid voorlezend:
 
-<p>&ldquo;Het zal mevrouw Gardiner veel genoegen doen de jonge dames Meta en Josephina March tegenwoordig te zien bij een danspartijtje, dat ze voornemens is op Nieuwjaarsavond te geven.&rdquo; Moeder vindt het goed, dat wij gaan; maar <hi>wat</hi> zullen we aandoen?&rdquo;
+<p>&ldquo;Het zal mevrouw Gardiner veel genoegen doen de jonge dames Meta en Josephina March tegenwoordig te zien bij een danspartijtje, dat ze voornemens is op Nieuwjaarsavond te geven.<corr sic="&rdquo;"></corr> Moeder vindt het goed, dat wij gaan; maar <hi>wat</hi> zullen we aandoen?&rdquo;
 
 <p>&ldquo;Dat hoef je niet te vragen, je weet heel goed, dat wij niks anders kunnen aandoen dan onze zomerjurken, omdat wij niets anders hebben,&rdquo; antwoordde Jo met een vollen mond.
 
@@ -717,7 +718,7 @@
 
 <p>Jo had,&mdash;Meta vond het &ldquo;ongemanierd&rdquo;&mdash;wat lekkers voor de zusjes bewaard, en nadat deze de gewichtigste gebeurtenissen van den avond gehoord hadden, gingen ze tevreden slapen.
 
-<p>&rdquo;&apos;k Heb net een gevoel of ik een rijke jonge dame ben, die in haar eigen rijtuig van een bal thuiskomt en nu in haar kamer zit met een kamenier tot haar dienst,&rdquo; zei Meta, terwijl Jo haar voet inwreef met arnica en daarna haar haar borstelde.
+<p>&ldquo;&apos;k Heb net een gevoel of ik een rijke jonge dame ben, die in haar eigen rijtuig van een bal thuiskomt en nu in haar kamer zit met een kamenier tot haar dienst,&rdquo; zei Meta, terwijl Jo haar voet inwreef met arnica en daarna haar haar borstelde.
 
 <p>&ldquo;Ik geloof niet, dat rijke jonge dames meer pret hebben dan wij, ondanks verbrande krullen, oude japonnen, één handschoen per hoofd, en nauwe schoentjes, die je laten zwikken, als je zoo dwaas bent ze te dragen,&rdquo; antwoordde Jo, en ik geloof dat ze gelijk had.
 
@@ -1197,7 +1198,7 @@
 <p>Jo opende den brief en begon te lachen, want de eerste woorden, die ze zag, waren:
 
 
-    <q rend=block><text><body><div1 type=letter>
+    <q rend=block><text><body><div1 type=Letter>
     <p>Mejuffrouw March,
 
     <p>&ldquo;Waarde, jonge Vriendin.&rdquo;
@@ -1233,7 +1234,7 @@
 
 
 
-<div1 id=ch07 n=VII>
+<div1 id=ch07 n=VII type=Chapter>
 <head type=label>Hoofdstuk VII.</head>
 
 <head>Amy&apos;s Dal der Vernedering.</head>
@@ -1457,7 +1458,7 @@
 
 <p>&ldquo;Blijf aan den kant, het is in &apos;t midden niet veilig&rdquo;. Jo hoorde het, maar Amy kwam juist overeind en verstond geen woord. Jo keek over haar schouder, en de kleine demon, dien ze schuilplaats verleende, fluisterde haar in &apos;t oor:
 
-<p>&rdquo;&apos;t Komt er niet op aan, of zij het hoorde of niet, laat ze maar voor zichzelf zorgen.&rdquo;
+<p>&ldquo;&apos;t Komt er niet op aan, of zij het hoorde of niet, laat ze maar voor zichzelf zorgen.&rdquo;
 
 <p>Laurie was achter de bocht verdwenen, Jo kwam er juist dichtbij en Amy ver in de achterhoede, zette zich in beweging naar de mooie effen baan in het midden der rivier. Eén oogenblik stond Jo stil met een vreemd gevoel in haar hart; toen besloot ze verder te gaan, maar een zeker iets hield haar tegen en dwong haar nog eens om te kijken, juist bijtijds om te zien, hoe Amy de handen in de hoogte sloeg, en onder het plotseling kraken van brekend ijs, het geplas van water, en het uiten van een gil, die Jo&apos;s hart van schrik deed stilstaan, wegzonk. Ze wilde Laurie roepen, maar haar stem begaf haar; zij trachtte op haar zusje toe te schieten, maar haar voeten schenen alle macht verloren te hebben, en ze stond daar maar onbeweeglijk met een ontzet gezicht te staren naar het kleine blauwe hoedje boven het zwarte water. Eensklaps schoot haar iets pijlsnel voorbij, en Laurie&apos;s stem riep haar toe: &ldquo;Haal een stok; gauw, gauw!&rdquo;
 
@@ -1850,7 +1851,7 @@
 <p>Tuinarbeid, wandelingen, roeitochtjes op de rivier en het verzamelen van wilde bloemen namen de mooie dagen in; en voor de regenachtige hadden ze vermakelijkheden binnenshuis, sommige oud, sommige nieuw,&mdash;alle meer of minder oorspronkelijk. Een van deze was de &ldquo;P.C&rdquo;, want daar geheime genootschappen in zwang waren, vonden de meisjes het noodig er ook een te hebben; en daar ze alle vier met Dickens dweepten, noemden ze zich &ldquo;de Pickwick&rdquo; Club. Een jaar lang hadden ze dit vrij geregeld volgehouden, en waren ze elken Zaterdagavond te zamen gekomen <pb n=88>op den grooten zolder, welke vergaderingen met de volgende plechtigheden gepaard gingen: Drie stoelen werden op een rij achter een tafel gezet; op die tafel stond een lamp, en lagen vier witte kaartjes, de clubinsignes met een groote &ldquo;P.C.&rdquo; er op in vier verschillende kleuren, en het weekblad, dat de &ldquo;Pickwick Portefeuille&rdquo; werd genoemd, en waaraan ieder haar bijdrage moest leveren. Jo, nooit gelukkiger, dan wanneer ze pen en inkt hanteerde, was redacteur. Om zeven uur trokken de vier leden naar de vergaderzaal, bonden zich de insignes om het hoofd, en namen met groote deftigheid plaats. Meta, als de oudste, stelde Samuel Pickwick voor; Jo, als de meest literarisch ontwikkelde, Augustus Stockwall; Bets, omdat zij een blozend tonnetje was, Tracy Tupman; en Amy, die altijd probeerde te doen, wat ze toch niet kon, Nathaniël Winkle. Pickwick, de president, las het blad voor, dat gevuld was met oorspronkelijke verhalen, dichtstukjes, plaatselijk nieuws, grappige advertenties, en wenken, waarmee ze elkander op een aardige manier opmerkzaam maakten op hun gebreken en tekortkomingen. Bij een dezer gelegenheden zette de heer Pickwick zijn bril op zonder glazen, tikte op de tafel, kuchte, en begon te lezen, na eerst den heer Stockwall ernstig te hebben aangestaard, die achterover in zijn stoel gevallen was van &apos;t lachen, en zoo tot de orde moest geroepen worden.
 
 
-    <q rend=block><text><body><div1>
+    <q rend=block><text><body><div1 type=Article>
     <head>&ldquo;De Pickwick Portefeuille.&rdquo;</head>
 
     <p><hi rend=bold>20 Mei 18&mdash;.</hi>
@@ -2176,7 +2177,7 @@
 
 
 
-<div1 id=ch11 n=XI>
+<div1 id=ch11 n=XI type=Chapter>
 <head type=label>Hoofdstuk XI.</head>
 
 <head>Proefnemingen.</head>
@@ -2808,7 +2809,7 @@
 
 <p>&ldquo;Wel ja, natuurlijk. Ik geef jullie mijn woord, dat ik niet zal lachen. Vertel op, Jo, en wees maar niet bang!&rdquo;
 
-<p>&rdquo;&apos;t Idée! bang voor jou? Nou, je moet weten, we <hi>speelden</hi> vroeger altijd den Pelgrimstocht, maar sinds verleden winter stellen wij hem in <hi>ernst</hi> voor.&rdquo;
+<p>&ldquo;&apos;t Idée! bang voor jou? Nou, je moet weten, we <hi>speelden</hi> vroeger altijd den Pelgrimstocht, maar sinds verleden winter stellen wij hem in <hi>ernst</hi> voor.&rdquo;
 
 <p>&ldquo;Ja, dat weet ik,&rdquo; zei Laurie, met een knikje.
 
@@ -3118,7 +3119,7 @@
 
 <p>&ldquo;Je mag het niemand vertellen, onthoud dat.&rdquo;
 
-<p>&rdquo;&apos;k Heb niks beloofd.&rdquo;
+<p>&ldquo;&apos;k Heb niks beloofd.&rdquo;
 
 <p>&ldquo;Dat sprak vanzelf, en ik heb je vertrouwd.&rdquo;
 
@@ -3184,7 +3185,7 @@
 
 <p>&ldquo;Heb je daar iets moois?&rdquo; vroeg Meta neerbuigend.
 
-<p>&rdquo;&apos;t Is maar een verhaaltje, het beteekent niet veel, geloof ik,&rdquo; antwoordde Jo, terwijl ze zorgvuldig den naam van het nieuwsblad bedekt hield.
+<p>&ldquo;&apos;t Is maar een verhaaltje, het beteekent niet veel, geloof ik,&rdquo; antwoordde Jo, terwijl ze zorgvuldig den naam van het nieuwsblad bedekt hield.
 
 <p>&ldquo;Lees het liever hardop, dan hooren wij het meteen en heb je zelf iets te doen,&rdquo; zei Amy op haar deftigsten toon.
 
@@ -4330,7 +4331,7 @@
 
 <p>&ldquo;Heusch, mijnheer, ik kan het u niet vertellen; Moeder heeft het verboden. Laurie heeft al schuld bekend en vergiffenis gevraagd, en hij is al genoeg gestraft. We zwijgen niet om hem, maar om iemand anders, en de zaak zou veel erger worden, wanneer u er u mee inliet. Doe het als &apos;t u belieft niet; het was gedeeltelijk mijn schuld, maar nu is alles in orde; laten we &apos;t dus maar vergeten en wat over boeken praten of over iets anders prettigs.&rdquo;
 
-<p>&rdquo;&apos;k Heb mijn gedachten niet bij boeken; kom eens naar beneden, meisje, en verzeker mij op je woord, dat die schavuit van een jongen niets ondankbaars of onhebbelijks heeft uitgevoerd. <hi>Als</hi> <pb n=190>hij dat gedaan heeft, na al de vriendelijkheid, die jullie hem bewezen hebt, zal ik hem met mijn eigen handen afranselen.&rdquo;
+<p>&ldquo;&apos;k Heb mijn gedachten niet bij boeken; kom eens naar beneden, meisje, en verzeker mij op je woord, dat die schavuit van een jongen niets ondankbaars of onhebbelijks heeft uitgevoerd. <hi>Als</hi> <pb n=190>hij dat gedaan heeft, na al de vriendelijkheid, die jullie hem bewezen hebt, zal ik hem met mijn eigen handen afranselen.&rdquo;
 
 <p>Die bedreiging klonk verschrikkelijk, maar verontrustte Jo niet in &apos;t minst, want zij wist, dat de driftige oude man nooit een vinger tegen zijn kleinzoon zou opheffen, wat hij ook beweren mocht. Ze daalde gehoorzaam af, en stelde het gebeurde zoo licht mogelijk voor, zonder Meta te verraden of de waarheid te kort te doen.
 
@@ -4540,7 +4541,7 @@
 <head>Tante March brengt de Zaak tot een Beslissing.</head>
 
 
-<p>Net als de bijen achter hun koningin aanzwermen, zweefden moeder en dochters den volgenden dag rondom mijnheer March, en verzuimden alles om den pas aangekomen herstellende te zien, te hooren en te bedienen, zoodat hij gevaar liep door overmaat <pb n=199>van verzorging weer ziek te worden. Zooals hij daar, omringd van kussens in den grooten stoel naast Bets&apos; canapé zat, met de andere drie dicht om hem heen, terwijl Hanna nu en dan het hoofd eens om de deur stak, &ldquo;om eens even den lieven man te zien,&rdquo; scheen het alsof er niets meer aan hun geluk ontbrak. En toch ontbrak er <hi>iets</hi>, en de ouders voelden het, hoewel niemand er over sprak. Mijnheer en mevrouw March zagen elkaar onrustig aan en volgden Meta met de oogen. Jo had plotselinge aanvallen van somberheid, en werd er op betrapt, dat zij nu en dan met haar vuist Brooke&apos;s parapluie dreigde, die in de gang was blijven staan. Meta was afgetrokken, verlegen en stil. Ze schrikte wanneer er gebeld werd, en bloosde als iemand John&apos;s naam noemde. Amy zei: &rdquo;&apos;t Is net of iedereen op iets wacht en niemand tot rust kan komen, en dat is toch vreemd, nu Vader weer goed en wel thuis is.&rdquo; En Bets verwonderde er zich in haar onschuld over, waarom de buren niet als naar gewoonte kwamen overloopen.
+<p>Net als de bijen achter hun koningin aanzwermen, zweefden moeder en dochters den volgenden dag rondom mijnheer March, en verzuimden alles om den pas aangekomen herstellende te zien, te hooren en te bedienen, zoodat hij gevaar liep door overmaat <pb n=199>van verzorging weer ziek te worden. Zooals hij daar, omringd van kussens in den grooten stoel naast Bets&apos; canapé zat, met de andere drie dicht om hem heen, terwijl Hanna nu en dan het hoofd eens om de deur stak, &ldquo;om eens even den lieven man te zien,&rdquo; scheen het alsof er niets meer aan hun geluk ontbrak. En toch ontbrak er <hi>iets</hi>, en de ouders voelden het, hoewel niemand er over sprak. Mijnheer en mevrouw March zagen elkaar onrustig aan en volgden Meta met de oogen. Jo had plotselinge aanvallen van somberheid, en werd er op betrapt, dat zij nu en dan met haar vuist Brooke&apos;s parapluie dreigde, die in de gang was blijven staan. Meta was afgetrokken, verlegen en stil. Ze schrikte wanneer er gebeld werd, en bloosde als iemand John&apos;s naam noemde. Amy zei: &ldquo;&apos;t Is net of iedereen op iets wacht en niemand tot rust kan komen, en dat is toch vreemd, nu Vader weer goed en wel thuis is.&rdquo; En Bets verwonderde er zich in haar onschuld over, waarom de buren niet als naar gewoonte kwamen overloopen.
 
 <p>&apos;s Middags ging Laurie voorbij en scheen, toen hij Meta aan het venster zag staan, plotseling door een theatrale bui overvallen te worden, want hij viel op één knie neer in de sneeuw, sloeg zich op de borst, trok zich aan het haar, en hief zijn handen smeekend op, alsof hij om de een of andere gunst bad. En toen Meta hem zei, dat hij zich niet zoo gek moest aanstellen en doorloopen, wrong hij denkbeeldige tranen uit zijn zakdoek en wankelde den hoek om, alsof hij &ldquo;der wanhoop ten prooi was.&rdquo;
 
@@ -4706,7 +4707,7 @@
 
 <p>&ldquo;De aangename dingen volgden dezen keer al heel gauw op de treurige, en ik geloof, dat de veranderingen ten goede nu begonnen zijn,&rdquo; zei mevrouw March. &ldquo;In de meeste families komt er nu en dan zoo&apos;n gewichtig jaar; dit is er een voor ons geweest, maar het is gelukkig geëindigd.&rdquo;
 
-<p>&rdquo;&apos;k Hoop, dat het volgende beter zal eindigen,&rdquo; mompelde Jo, die het heel hard vond Meta voor haar oogen heelemaal in een vreemde te zien opgaan; want de weinige personen, die Jo liefhad, had zij héél innig lief, en ze vreesde niets zoozeer als hun genegenheid te verliezen, of ook maar in het minst te zien verflauwen.
+<p>&ldquo;&apos;k Hoop, dat het volgende beter zal eindigen,&rdquo; mompelde Jo, die het heel hard vond Meta voor haar oogen heelemaal in een vreemde te zien opgaan; want de weinige personen, die Jo liefhad, had zij héél innig lief, en ze vreesde niets zoozeer als hun genegenheid te verliezen, of ook maar in het minst te zien verflauwen.
 
 <p>&ldquo;<hi>Ik</hi> hoop, dat het <hi>derde</hi> jaar, van nu af gerekend, gelukkig eindigen mag; en dat <hi>zal</hi> het ook, als ik in leven blijf en mijn plannen ten uitvoer brengen kan,&rdquo; zei John, Meta toelachende, alsof hem nu niets meer onmogelijk scheen.
 
@@ -4749,15 +4750,14 @@
 
 
 
-</body>
 <pb n=209>
-<back>
+</body>
+<back id=backmatter>
 <div1 id=toc type=Contents>
 <head>Inhoud.</head>
 
 
-<p>
-<table>
+<p><table>
 <row><cell>                 <cell>      <cell>Bladz.
 <row><cell>Hoofdstuk I.     <cell><ref target=ch01>Kleine Pelgrims</ref>      <cell>  1
 <row><cell>Hoofdstuk II.    <cell><ref target=ch02>Een vroolijk Kerstfeest</ref>      <cell> 10
@@ -4787,7 +4787,8 @@
 
 
 <pb n=211>
-<div1 type=Ads>
+<div1 type=Advertisements id=ads rend="toc-head(Advertisments.)">
+
 
 <p><hi rend=sc>Uitgave van Firma D. Bolle te Rotterdam</hi>
 
